@@ -21,3 +21,4 @@ The multinomial Naive Bayes classifier is suitable for classification with discr
  #CountVectorizer
  Scikit-learn’s CountVectorizer is used to convert a collection of text documents to a vector of term/token counts. It also enables the ​pre-processing of text data prior to generating the vector representation. This functionality makes it a highly flexible feature representation module for text.
  
+![slika](https://user-images.githubusercontent.com/77289083/108191453-6ce20080-7113-11eb-9856-62318c7862c5.png)
