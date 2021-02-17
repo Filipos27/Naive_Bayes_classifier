@@ -18,7 +18,7 @@ The multinomial Naive Bayes classifier is suitable for classification with discr
  Naive Bayes assumes label attributes such as binary, categorical or nominal.In  Gaussian Inputs If the input variables are real-valued, a Gaussian distribution is assumed. In which case the algorithm will perform better if the univariate distributions of your data are Gaussian or near-Gaussian.
  
  
- #CountVectorizer
- Scikit-learn’s CountVectorizer is used to convert a collection of text documents to a vector of term/token counts. It also enables the ​pre-processing of text data prior to generating the vector representation. This functionality makes it a highly flexible feature representation module for text.
+ # CountVectorizer
+Scikit-learn’s CountVectorizer is used to convert a collection of text documents to a vector of term/token counts. It also enables the ​pre-processing of text data prior to generating the vector representation. This functionality makes it a highly flexible feature representation module for text.
  
 ![slika](https://user-images.githubusercontent.com/77289083/108191453-6ce20080-7113-11eb-9856-62318c7862c5.png)
